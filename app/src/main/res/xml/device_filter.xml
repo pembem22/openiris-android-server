@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <!-- seeed studio xiao esp32s3 sense -->
-    <usb-device vendor-id="12346" product-id="4097" /> <!-- 0x303A / 0x1001  -->
+    <usb-device vendor-id="4617" product-id="30352" /> <!-- 0x1209 / 0x7690  -->
 </resources>
